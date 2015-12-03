@@ -5,3 +5,5 @@
 **Favorite Food:** Apple
 
 **Hobby:** CS
+
+**Favorite Color:** Blue
